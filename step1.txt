@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>Page Title</title>
+
+    <style>
+
+      /*reset*/
+
+      * {margin:0; box-sizing:border-box;}
+
+      ul,ol,li {list-style:none; margin:0; padding:0;}
+
+      a {text-decoration:none; color:#666;}
+
+​
+
+      /*main*/
+
+      #newproduct {width:1200px; height:550px; margin:0 auto; border:3px solid #666;}
+
+      #newproduct > h3 {text-align:center; padding:20px 0px; font-size:30px; 
+
+        text-transform:uppercase;}
+
+      #newproduct > p {font-size:20px; text-align:center;} 
+
+​
+
+      #newproduct > .box {width:230px; height:320px;  margin:20px; float:left; box-shadow:4px 4px 4px #ddd; border:1px solid #ddd; padding:10px;}
+
+​
+
+      #newproduct > div:nth-of-type(1) {margin:20px 20px 0 90px;}
+
+      #newproduct > div:nth-of-type(5) {margin:20px 20px 0 90px;}
+
+​
+
+   
+
+    </style>
+
+​
+
+  </head>
+
+​
+
+  <body>
+
+​
+
+    <div id="newproduct">
+
+      <h3>찬바람 불 땐 건강 반찬</h3>
+
+      <p>믿을 수 있는 재료</p>
+
+​
+
+      <div class="box">
+
+      </div>
+
+​
+
+      <div class="box">
+
+      </div>
+
+​
+
+      <div class="box">
+
+      </div>
+
+​
+
+      <div class="box">
+
+      </div>
+
+​
+
+    </div>
+
+  </body>
+
+​
+
+</html>
+[출처] 반찬 - 쇼핑몰 상품|작성자 공룡
